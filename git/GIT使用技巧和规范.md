@@ -56,7 +56,7 @@
 
 分支创建自：develop；必须合并回：develop；
 
-分支命名约定：除master, develop, release-*, 或hotfix-*以外的任何名字。
+分支命名约定：除master, develop, release-*, 或hotfix-*以外的任何名字。建议 feature-*
 
 **预发布分支 (Release branches)**
 
