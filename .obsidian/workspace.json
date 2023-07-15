@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "93f477f7256e1e0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c713e4fb9a5676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9048e8930bda77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MarkDown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "948c81aa0bee8626",
+    "type": "split",
+    "children": [
+      {
+        "id": "88574f95407a27f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "558447806c42e641",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8457bb8b1c271ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2cf4d55319b2a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f2005f7cdcc71a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f9ccebeddb3290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4cc2b92ccc345fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MarkDown.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e6d9a089e8dc684",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MarkDown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4b2f245497c81e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42456b672fcb80c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MarkDown.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "dd9048e8930bda77",
+  "lastOpenFiles": [
+    "目录内容.md",
+    "日记/2023-07-15.md",
+    "templates/日记模板.md",
+    "日记",
+    "MarkDown.md",
+    "js/javascript的运行机制.md",
+    "templates",
+    "js/单线程.md",
+    "2023-07-14.md",
+    "未命名.canvas",
+    "js/js预编译GO以及AO.md",
+    "js/javascript 高级指南之数组.md",
+    "js/组件的定义和实现.md",
+    "js/字符串及正则.md",
+    "css/聊聊像素.md",
+    "().md"
+  ]
+}
