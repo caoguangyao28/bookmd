@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"imgs/Snipaste_2019-12-03_13-53-53.png","id":"ec1f259c8294a1c1","x":-500,"y":-499,"width":600,"height":539},
+		{"type":"text","text":"浏览器如何加载渲染页面的","id":"5bab75a95e503055","x":-860,"y":-254,"width":250,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"dc5104ad01483d85","fromNode":"5bab75a95e503055","fromSide":"right","toNode":"ec1f259c8294a1c1","toSide":"left"}
+	]
+}

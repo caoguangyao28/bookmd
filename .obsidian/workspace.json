@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "周报/2023-W29.md",
+                "file": "周报/2023-W30.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "周报/2023-W29.md",
+                "file": "周报/2023-W30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "周报/2023-W29.md",
+                "file": "周报/2023-W30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "周报/2023-W29.md"
+                "file": "周报/2023-W30.md"
               }
             }
           },
@@ -136,13 +136,29 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1519612cab49b831",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b644df754a92dc06",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,41 +168,46 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "58bdc7c9343d3d33",
   "lastOpenFiles": [
-    "templates/日记模板.md",
+    "日记/2023-07-20.md",
+    "周报/2023-W30.md",
+    "浏览器加载-渲染.canvas",
+    "日记/2023-07-24.md",
     "周报/2023-W29.md",
+    "css/聊聊像素.md",
+    "html/页面加载面面观.md",
+    "html/超链接以及锚点.md",
+    "git/GIT使用技巧和规范.md",
+    "git/git-rebase.md",
+    "日记/2023-07-18.md",
+    "imgs/Snipaste_2019-12-03_10-54-34.png",
+    "imgs/Snipaste_2020-08-20_10-25-52.png",
+    "imgs/Snipaste_2019-12-03_13-53-53.png",
     "日记/2023-07-17.md",
+    "前端编码规范.md",
+    "MarkDown.md",
+    "templates/日记模板.md",
     "templates/week-Template.md",
     "周报",
     "joniforce/joinforce-npm.md",
     "joniforce/通用组件库.md",
     "joniforce/前端开发入职引导.md",
     "joniforce/前端架构说明.md",
-    "前端编码规范.md",
     "bbslogo.png",
     "bg2014100801.png",
     "image-20191202132517854.png",
     "日记/2023-07-15.md",
-    "MarkDown.md",
     "目录内容.md",
-    "git/GIT使用技巧和规范.md",
-    "git/git-rebase.md",
     "后端常识.md",
     "日记",
     "js/javascript的运行机制.md",
     "templates",
     "js/单线程.md",
-    "2023-07-14.md",
-    "未命名.canvas",
-    "js/js预编译GO以及AO.md",
-    "js/javascript 高级指南之数组.md",
-    "js/组件的定义和实现.md",
-    "js/字符串及正则.md",
-    "css/聊聊像素.md",
-    "().md"
+    "2023-07-14.md"
   ]
 }

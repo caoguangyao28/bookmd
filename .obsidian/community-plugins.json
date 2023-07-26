@@ -1,4 +1,7 @@
 [
   "dataview",
-  "calendar"
+  "calendar",
+  "obsidian-pandoc",
+  "table-editor-obsidian",
+  "obsidian-checklist-plugin"
 ]
